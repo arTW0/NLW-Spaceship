@@ -18,7 +18,7 @@ export function Profile() {
       <p className="text-sm leading-snug max-w-[140px]">
         {name}
         <a
-          href=""
+          href="/api/auth/logout"
           className="block text-red-400 hover:text-red-200 transition-colors"
         >
           Sair
