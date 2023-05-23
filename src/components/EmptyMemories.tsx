@@ -1,5 +1,5 @@
 export function EmptyMemories() {
-  return <div className="flex flex-1 items-center justify-center">
+  return <div className="flex p-16 flex-1 items-center justify-center">
     <p className="text-center leading-relaxed w-[360px]">
       Você ainda não registrou nenhuma memória, comece a{' '}
       <a
